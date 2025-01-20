@@ -4,7 +4,7 @@
 #### **Step 1: Clone the Repository**
 ```bash
 git clone https://github.com/YourUsername/CamSociety.git
-cd UIU-Health-Care-System
+cd CamSociety
 ```
 
 #### **Step 2: Install Laravel Backend Dependencies**
