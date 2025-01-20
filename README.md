@@ -3,7 +3,7 @@
 
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/UIU-Health-Care-System.git
+git clone https://github.com/YourUsername/CamSociety.git
 cd UIU-Health-Care-System
 ```
 
@@ -28,7 +28,7 @@ cp .env.example .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=camsocity
+DB_DATABASE=camsociety
 DB_USERNAME=your_db_username
 DB_PASSWORD=your_db_password
 ```
